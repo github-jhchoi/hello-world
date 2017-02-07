@@ -2,7 +2,8 @@
 
 void main()
 {
-	printf("Hello My Git World\n");
-	return;
+   printf("Hello My Git World\n");
+   printf("mycard\n");
+   return;
 }
 
